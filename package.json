@@ -62,7 +62,7 @@
       "last 1 safari version"
     ]
   },
-  "publishConfig": {
+  "publishConfig":{
     "name": "@my-org/test",
     "version": "1.0.0",
     "publishConfig": {
@@ -70,6 +70,4 @@
     },
     "repository": "https://github.com/Nikhilshimpi16/TestingDeployeApp.git"
   }
-  
-    
 }
