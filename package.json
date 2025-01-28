@@ -61,5 +61,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    {
+  "name": "@my-org/test",
+  "version": "1.0.0",
+  "description": "My test package"
+}
+  {
+  "repository": "https://github.com/Nikhilshimpi16/TestingDeployeApp.git"
+}
   }
 }
